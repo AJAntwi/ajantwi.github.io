@@ -2,7 +2,7 @@
 title: "Welcome to My Tech Journey"
 ---
 
-# Hello, I'm Augustnie but you can call me Auggie! 👋
+# Hello, I'm Augustine but you can call me Auggie! 👋
 
 Welcome to my personal tech space!  
 This blog is where I share what I'm learning as I grow into a **Cloud & Cybersecurity professional**.
