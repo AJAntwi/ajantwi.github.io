@@ -8,11 +8,12 @@ Welcome to my personal tech space! I’m currently documenting my journey throug
 
 ### What I’m Building & Learning
 * 🛠️ **Systems & Networks:** Mastering **Linux** administration and core **Networking** protocols.
-* 🛡️ **Security Engineering:** Learning to identify vulnerabilities and harden systems.
-* ☁️ **Cloud Infrastructure:** Architecting and automating environments in **AWS** and **Azure**.
-* 🚀 **DevSecOps:** Bridging the gap between development, operations, and security.
+* 🛡️ **Security Engineering:** Learning to identify vulnerabilities, harden systems, and protect data.
+* ☁️ **Cloud Infrastructure:** Architecting and automating scalable environments in **AWS** and **Azure**.
+* 🤖 **AI Automation:** Leveraging **AI tools** to automate security workflows, audit code, and streamline documentation.
+* 🚀 **DevSecOps:** Integrating security and automation directly into the modern development lifecycle.
 
-This site is my "learning in public" laboratory. I'm not just studying theory—I'm building, securing, and documenting it all here.
+This site is my "learning in public" laboratory. I'm not just studying theory—I'm building, securing, and automating it all here.
 
 ---
 *Powered by GitHub Pages & Jekyll*
